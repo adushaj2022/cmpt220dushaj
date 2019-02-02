@@ -1,8 +1,0 @@
-public class lab1pt1 {
-  public static void main (string[] args){
-  system.out.println("The answer to the problem is: " + ((15.4 * 6.5) - (4.3 * 3))/(46.3-3.5)))
-}
-}
-
-
-    
