@@ -9,7 +9,7 @@ public class LAb2_p6 {
 		int int4 = rand.nextInt(1000); 
 		int int5 = rand.nextInt(10000); 
 
-		String phone_number = String.format("%03d-%03d-%04d", int3, int4, int5);
+		String phone_number = String.format("%03d-%03d-%04d", int3, int4, int5); // JA: Wrong format
 		System.out.println("Phone number: " + "\n" +  phone_number);
 
 	}

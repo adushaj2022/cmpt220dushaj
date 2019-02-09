@@ -17,7 +17,7 @@ public class LAb2_p5 {
 		System.out.println(s1.compareTo(s2));
 		
 		
-		String orderStr = s1 + s2;
+		String orderStr = s1 + s2; // JA: Does this order change?
 		
         char[] chars = orderStr.toCharArray();
         Arrays.sort(chars);
