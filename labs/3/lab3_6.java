@@ -36,7 +36,7 @@ public class lab3_6 {
 
 		System.out.print("Enter a string : ");
 
-		String s = in.next();
+		String s = in.next(); // JA: Use nextLine()
 
 		System.out.println("Vowel Count : "+countVowel(s)); // calling countVowel
 

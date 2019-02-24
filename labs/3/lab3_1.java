@@ -17,7 +17,7 @@ public class lab3_1 {
 			total += userInput;
 			count += 1;
 			
-			if (userInput % 2 == 0) {
+			if (userInput % 2 == 0) { // JA: This will count one more
 				evenCount +=1;
 			}
 		}
