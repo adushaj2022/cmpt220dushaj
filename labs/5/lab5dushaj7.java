@@ -1,4 +1,4 @@
-package lab5dushaj7;
+//package lab5dushaj7;
 
 public class lab5dushaj7 {
 

@@ -1,8 +1,8 @@
-package lab5dushaj1;
+//package lab5dushaj1;
 
 import java.util.Scanner;
 
-public class lab5dushaj1 {
+public class lab5dushaj2 {
 
 	public static void main(String[] args) {
 		Scanner userInput = new Scanner(System.in);

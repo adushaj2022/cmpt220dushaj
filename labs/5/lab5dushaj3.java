@@ -1,4 +1,4 @@
-package lab5dushaj3;
+//package lab5dushaj3;
 
 import java.util.Scanner;
 

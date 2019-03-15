@@ -1,4 +1,4 @@
-package lab5dushaj5;
+//package lab5dushaj5;
 import java.util.Scanner;
 public class lab5dushaj5 {
 

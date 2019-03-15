@@ -1,8 +1,8 @@
-package lab5dushaj2;
+//package lab5dushaj2;
 
 import java.util.Scanner;
 
-public class lab5dushaj2 {
+public class lab5dushaj1 {
 	
 	public static void main(String[] args) {
 		
