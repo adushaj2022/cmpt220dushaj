@@ -1,5 +1,6 @@
 package dushajSeven;
 
+// JA: No test class?
 public class myLong1 {
 long value ;
 	
@@ -31,7 +32,7 @@ long value ;
 		return this.value == value ;
 	}
 	
-	boolean equals(MyLong value) {
+	boolean equals(myLong1 value) {
 		return this.value == value.getValue();
 	}
 	
